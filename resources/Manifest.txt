@@ -1,0 +1,8 @@
+Main-Class: org.powerbot.Boot
+
+Name: org/powerbot
+Sealed: true
+Specification-Title: "RSBot"
+Specification-Vendor:  "org.powerbot"
+Implementation-Title: "RSBot"
+Implementation-Vendor: "org.powerbot"

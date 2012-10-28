@@ -1,0 +1,3 @@
+[submodule "src/org/powerbot/game/api"]
+	path = src/org/powerbot/game/api
+	url = git@github.com:powerbot/RSBot-API.git
